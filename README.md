@@ -50,14 +50,17 @@ Of course, since your needs may be different, you are very welcome to suggest ch
 
 ### Installation
 
-1. Clone the repo
+1.  Clone the repo
    ```sh
-   git clone https://github.com/Shulammiteya/Evolutionary-Whack-A-Mole.git
+      git clone https://github.com/Shulammiteya/Evolutionary-Whack-A-Mole.git
    ```
-2. open Eclipse and follow the steps to import the project:
-    * >  File > open projects from file system >
-    * > Import projects from File system or Archive window will appear
-    * > click on directory button and import the source
+2.  Open Eclipse and follow the steps to import the project:
+   ```sh
+      >  File
+      >  Open projects from file system
+      >  Import projects from File system or Archive window will appear
+      >  Click on directory button and import the source
+   ```
 <br />
 
 
